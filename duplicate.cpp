@@ -23,3 +23,6 @@ int main()
     containsduplicate(num,n);
     return 0;
 }
+
+// Time complexity O(n^2)
+// space complexity O(n).
