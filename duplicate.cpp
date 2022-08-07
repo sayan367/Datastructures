@@ -26,3 +26,4 @@ int main()
 
 // Time complexity O(n^2)
 // space complexity O(n).
+// This program will check for duplicate elements in an array.
